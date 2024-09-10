@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="image/social_preview.jpg" alt="gsh logo" width="500"/>
-</p>
-
 
 # gsh (GPT Shell)
 
@@ -29,7 +25,7 @@ To use gsh, you need to have an API key from OpenAI to access GPT models. This A
 
 1. Clone the repository from GitHub:
    ```bash
-   git clone https://github.com/yourusername/gsh.git
+   git clone https://github.com/Pinperepette/gsh.git
    cd gsh
    ```
 
