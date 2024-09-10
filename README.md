@@ -66,6 +66,8 @@ If you're on macOS, for example, the command will be translated to:
 find ~/Documents -name "*.txt"
 ```
 
+![gsh command](./image/im1.png)
+
 ### Code Suggestion
 
 If you'd like a code suggestion instead of a shell command, use the `--code` flag:
@@ -74,6 +76,8 @@ gsh 'write a python function to calculate Fibonacci sequence' --code
 ```
 
 This will generate a Python function suggestion, properly formatted with syntax highlighting.
+
+![gsh code](./image/im2.png)
 
 ### Example Commands
 
