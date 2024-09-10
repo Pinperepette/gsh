@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="image/social_preview.png" alt="gsh logo" width="500"/>
+  <img src="image/social_preview.jpg" alt="gsh logo" width="500"/>
 </p>
 
 
