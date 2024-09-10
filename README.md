@@ -3,7 +3,7 @@
 
 gsh (GPT Shell) is a Python tool that integrates OpenAI's GPT models directly into your shell, allowing users to execute complex commands and request code suggestions based on natural language input. It is designed to work across different systems such as macOS, Linux, and Windows, automatically adapting its behavior based on the detected platform.
 
-![gsh logo](./image/gsh.png)
+![gsh logo](./social_preview.jpg)
 
 
 ## Features
@@ -19,6 +19,8 @@ To use gsh, you need to have an API key from OpenAI to access GPT models. This A
 
 - You will need a valid **OpenAI API key**, which will be used to make requests to the OpenAI API.
 - **OpenAI GPT-4** requires a paid plan. For pricing information, please refer to the [OpenAI Pricing](https://openai.com/pricing/) page.
+
+![gsh logo](./image/gsh.png)
 
 ## Installation
 
